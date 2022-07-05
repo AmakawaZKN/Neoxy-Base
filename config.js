@@ -6,11 +6,11 @@ const chalk = require('chalk')
 // MY OTHERS
 global.owner = ['6283834558105']
 global.premium = ['6283834558105']
-global.botname = 'Neoxy Bot'
-global.packname = 'Bot Whatsapp'
-global.author = 'Neoxy Team'
+global.botname = 'AmakawaZKN'
+global.packname = 'AmakawaZKN'
+global.author = 'ZyKuanMD | wa.me/6282133532380'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.footer = '© Created By Lexxy Official'
+global.footer = '© Created By Zykuan-kun Official'
 global.sp = '⭔'
 global.limitawal = {
 premium: "Infinity",
@@ -26,11 +26,11 @@ global.mess = {
 success: '✓ Success',
 admin: 'Fitur Khusus Admin Group!',
 botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-owner: 'Fitur Khusus Owner Bot',
+owner: 'Fitur Khusus Owner ZyKuan-kun',
 group: 'Fitur Digunakan Hanya Untuk Group!',
 private: 'Fitur Digunakan Hanya Untuk Private Chat!',
 bot: 'Fitur Khusus Pengguna Nomor Bot',
-wait: 'Loading...',
+wait: 'Loading, sabarlah anj...',
 endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 
